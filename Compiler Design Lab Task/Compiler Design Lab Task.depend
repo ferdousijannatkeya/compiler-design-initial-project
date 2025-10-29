@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1761720272 source:d:\compiler\compiler-design-initial-project\compiler design lab task\functions.cpp
+	"functions.h"
+	<iostream>
+
+1761720270 d:\compiler\compiler-design-initial-project\compiler design lab task\functions.h
+	<string>
+
+1761720266 source:d:\compiler\compiler-design-initial-project\compiler design lab task\main.cpp
+	<iostream>
+	<string>
+	"functions.h"
+
